@@ -4,5 +4,7 @@ slimScroll is a small jQuery plugin that transforms any div into a scrollable ar
 
 Demo and deocumentation available here: [jQuery slimScroll docs](http://rocha.la/jQuery-slimScroll)
 
+Added support for new PointerEvent api and windows 10/11
+
 Copyright (c) 2011 Piotr Rochala (http://rocha.la)
 Dual licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) and GPL (http://www.opensource.org/licenses/gpl-license.php) licenses.
